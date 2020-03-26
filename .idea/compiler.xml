@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Music_Advisor-task_main" target="11" />
+      <module name="Music_Advisor-task_test" target="11" />
+      <module name="Problems-A_long_process_main" target="11" />
+      <module name="Problems-A_long_process_test" target="11" />
+      <module name="Problems-An_anonymous_class_with_three_methods_main" target="11" />
+      <module name="Problems-An_anonymous_class_with_three_methods_test" target="11" />
+      <module name="Problems-Breakfast_Decorator_main" target="11" />
+      <module name="Problems-Breakfast_Decorator_test" target="11" />
+      <module name="Problems-Coffee_Decorator_main" target="11" />
+      <module name="Problems-Coffee_Decorator_test" target="11" />
+      <module name="Problems-Concat_all_strings_without_digits_main" target="11" />
+      <module name="Problems-Concat_all_strings_without_digits_test" target="11" />
+      <module name="Problems-Iterations_main" target="11" />
+      <module name="Problems-Iterations_test" target="11" />
+      <module name="Problems-Pizza_Decorator_main" target="11" />
+      <module name="Problems-Pizza_Decorator_test" target="11" />
+      <module name="Problems__10_-Getting_the_type_of_comparator_main" target="11" />
+      <module name="Problems__10_-Getting_the_type_of_comparator_test" target="11" />
+      <module name="Problems__11_-Photocopiers_main" target="11" />
+      <module name="Problems__11_-Photocopiers_test" target="11" />
+      <module name="Problems__12_-Violator_main" target="11" />
+      <module name="Problems__12_-Violator_test" target="11" />
+      <module name="Problems__13_-Violator_main" target="11" />
+      <module name="Problems__13_-Violator_test" target="11" />
+      <module name="Problems__14_-Complete_a_class_main" target="11" />
+      <module name="Problems__14_-Complete_a_class_test" target="11" />
+      <module name="Problems__15_-Complete_the_eager_singleton_main" target="11" />
+      <module name="Problems__15_-Complete_the_eager_singleton_test" target="11" />
+      <module name="Problems__1_-Field_count_main" target="11" />
+      <module name="Problems__1_-Field_count_test" target="11" />
+      <module name="Problems__2_-Retrieve_class_name_main" target="11" />
+      <module name="Problems__2_-Retrieve_class_name_test" target="11" />
+      <module name="Problems__3_-Writing_a_class_main" target="11" />
+      <module name="Problems__3_-Writing_a_class_test" target="11" />
+      <module name="Problems__4_-List_multiplicator_main" target="11" />
+      <module name="Problems__4_-List_multiplicator_test" target="11" />
+      <module name="Problems__5_-Packing_backeries_main" target="11" />
+      <module name="Problems__5_-Packing_backeries_test" target="11" />
+      <module name="Problems__6_-A_talanted_baker_main" target="11" />
+      <module name="Problems__6_-A_talanted_baker_test" target="11" />
+      <module name="Problems__7_-Quality_control_system_main" target="11" />
+      <module name="Problems__7_-Quality_control_system_test" target="11" />
+      <module name="Problems__8_-Car_main" target="11" />
+      <module name="Problems__8_-Car_test" target="11" />
+      <module name="Problems__9_-Quality_control_system_main" target="11" />
+      <module name="Problems__9_-Quality_control_system_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

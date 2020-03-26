@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.sun.net.httpserver:http:20070405" type="repository">
+    <properties maven-id="com.sun.net.httpserver:http:20070405" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/http-20070405.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

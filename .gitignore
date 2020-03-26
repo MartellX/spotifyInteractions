@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/Music Advisor/task/build/
+/Music Advisor/task/out/
+/Music Advisor/task/out/production/classes/
+/Music Advisor/task/out/test/classes/
+/Problems (1)/Field count/out/
+/Problems (1)/Field count/out/production/classes/
+/Problems (10)/Getting the type of comparator/out/
+/Problems (10)/Getting the type of comparator/out/production/classes/
+/Problems (13)/Violator/out/
+/Problems (13)/Violator/out/production/classes/

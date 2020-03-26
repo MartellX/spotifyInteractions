@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Music Advisor/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/Field count" />
+            <option value="$PROJECT_DIR$/Problems (10)/Getting the type of comparator" />
+            <option value="$PROJECT_DIR$/Problems (11)/Photocopiers" />
+            <option value="$PROJECT_DIR$/Problems (12)/Violator" />
+            <option value="$PROJECT_DIR$/Problems (13)/Violator" />
+            <option value="$PROJECT_DIR$/Problems (14)/Complete a class" />
+            <option value="$PROJECT_DIR$/Problems (15)/Complete the eager singleton" />
+            <option value="$PROJECT_DIR$/Problems (2)/Retrieve class name" />
+            <option value="$PROJECT_DIR$/Problems (3)/Writing a class" />
+            <option value="$PROJECT_DIR$/Problems (4)/List multiplicator" />
+            <option value="$PROJECT_DIR$/Problems (5)/Packing backeries" />
+            <option value="$PROJECT_DIR$/Problems (6)/A talanted baker" />
+            <option value="$PROJECT_DIR$/Problems (7)/Quality control system" />
+            <option value="$PROJECT_DIR$/Problems (8)/Car" />
+            <option value="$PROJECT_DIR$/Problems (9)/Quality control system" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
